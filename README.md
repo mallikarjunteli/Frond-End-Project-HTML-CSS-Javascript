@@ -1,2 +1,2 @@
-# Frond-End-Project-HTML-CSS-Javascript
-Spotify Clone Project
+# Spotify Clone Project
+Frond End Project
